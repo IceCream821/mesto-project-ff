@@ -2,6 +2,11 @@
 
 Учебный проект с редактированием профиля, карточками мест, валидацией форм и интеграцией с API.
 
+## Ссылки
+
+- Репозиторий: https://github.com/MaDaMiInteractive/mesto-project-ff
+- GitHub Pages: https://madamiinteractive.github.io/mesto-project-ff/
+
 ## Стек
 
 - HTML
