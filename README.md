@@ -4,8 +4,6 @@
 
 ## Ссылки
 
-- Репозиторий: https://github.com/MaDaMiInteractive/mesto-project-ff
-- GitHub Pages: https://madamiinteractive.github.io/mesto-project-ff/
 
 ## Стек
 
