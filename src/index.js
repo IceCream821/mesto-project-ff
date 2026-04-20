@@ -134,7 +134,6 @@ const handleAddCardFormSubmit = (evt) => {
     .then((cardData) => {
       renderCard(cardData, true);
       addCardForm.reset();
-      clearValidation(addCardForm, validationConfig);
       closeModal(addCardPopup);
     })
     .catch((err) => {
@@ -153,7 +152,6 @@ const handleAvatarFormSubmit = (evt) => {
     .then((userData) => {
       setUserInfo(userData);
       avatarForm.reset();
-      clearValidation(avatarForm, validationConfig);
       closeModal(avatarPopup);
     })
     .catch((err) => {
